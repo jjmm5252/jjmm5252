@@ -16,7 +16,7 @@
 
 ## About Me
 
-🚀 Student of **Software Analysis & Development (ADSO)**.
-💻 Building solutions with **C#, .NET, PHP**, and **MySQL**.
-🌐 Developing web interfaces using **HTML5, CSS3, and JavaScript**.
-🛠️ Work environment: **Git, Linux, Windows**.
+* 🚀 Student of **Software Analysis & Development (ADSO)**.
+* 💻 Building solutions with **C#, .NET, PHP**, and **MySQL**.
+* 🌐 Developing web interfaces using **HTML5, CSS3, and JavaScript**.
+* 🛠️ Work environment: **Git, Windows**.
