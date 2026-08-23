@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Tu Nombre] 👋</h1>
+<h1 align="center">Hi, I'm Juan Jose Mondragon 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
