@@ -42,7 +42,7 @@
 - **Backend & Desktop:** C#, .NET
 - **Databases:** MySQL, MariaDB, SQL Server
 - **Frontend:** HTML5, CSS3, Bootstrap 5.3
-- **OS & Environment:** Windows 11, Git, VS Code
+- **OS & Environment:** Windows 11, Git, VS Code, Visual Studio Community
 
 ---
 
