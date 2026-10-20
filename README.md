@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Juan Jose Mondragon 👋</h1>
 
 <p align="center">
-<p align="center">
   <!-- C# -->
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
@@ -21,7 +20,10 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
-</p>
+  <!-- PowerShell -->
+  <a href="https://learn.microsoft.com/en-us/powershell/">
+    <img src="https://skillicons.dev/icons?i=powershell" />
+  </a>
 </p>
 
 <div align="center">
@@ -34,7 +36,7 @@
 - 💻 Building functional solutions using **C# (.NET, WinForms)**.
 - 🗄️ Designing relational databases and writing complex queries with **MySQL, MariaDB, and SQL Server**.
 - 🌐 Developing web interfaces using **HTML5, CSS3, and Bootstrap 5.3**.
-- ⚙️ Comfortable operating and scripting in **Windows (PowerShell)** environments.
+- ⚙️ Comfortable operating and scripting in **Windows (PowerShell)** environments (basic level for now).
 - 🗣️ Actively improving my technical English (currently at A1-A2 level).
 
 ## 🛠️ Tech Stack & Tools
