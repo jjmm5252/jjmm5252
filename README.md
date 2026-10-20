@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jjmm5252&color=blue&style=flat-square" alt="Profile views" />
-</p>
+<div align="center">
+  [![Profile views](https://komarev.com/ghpvc/?username=jjmm5252&color=blue&style=flat-square)](https://github.com/jjmm5252)
+</div>
 
 ---
 
