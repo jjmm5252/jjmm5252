@@ -11,8 +11,6 @@
  <img src="https://visitor-badge.laobi.icu/badge?page_id=jjmm5252&left_text=Profile%20views&logo=github&radius=10" alt="visitor badge"/>
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 - 🚀 Software Development student (**ADSO** at SENA) with a strong focus on **Backend** architecture and robust desktop applications.
