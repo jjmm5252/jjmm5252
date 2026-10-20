@@ -1,10 +1,27 @@
 <h1 align="center">Hi, I'm Juan Jose Mondragon 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<p align="center">
+  <!-- C# -->
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  </a>
+  
+  <!-- .NET -->
+  <a href="https://dotnet.microsoft.com/es-es/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  </a>
+  
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+</p>
 </p>
 
 <div align="center">
