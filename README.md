@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  [![Profile views](https://komarev.com/ghpvc/?username=jjmm5252&color=blue&style=flat-square)](https://github.com/jjmm5252)
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=jjmm5252&left_text=Profile%20views&logo=github&radius=10" alt="visitor badge"/>
 </div>
 
 ---
